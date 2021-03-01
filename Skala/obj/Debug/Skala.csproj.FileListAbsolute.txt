@@ -1,0 +1,7 @@
+D:\PROGRAMMIROVANIE\Skala\Skala\obj\Debug\Skala.csprojAssemblyReference.cache
+D:\PROGRAMMIROVANIE\Skala\Skala\obj\Debug\Skala.csproj.CoreCompileInputs.cache
+D:\PROGRAMMIROVANIE\Skala\Skala\bin\Debug\Skala.exe.config
+D:\PROGRAMMIROVANIE\Skala\Skala\bin\Debug\Skala.exe
+D:\PROGRAMMIROVANIE\Skala\Skala\bin\Debug\Skala.pdb
+D:\PROGRAMMIROVANIE\Skala\Skala\obj\Debug\Skala.exe
+D:\PROGRAMMIROVANIE\Skala\Skala\obj\Debug\Skala.pdb
